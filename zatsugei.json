@@ -1,0 +1,383 @@
+{
+ "work": "雑芸",
+ "work_id": "zatsugei",
+ "repo": "kumoi-no-fumigura/zatsugei",
+ "yomi": "ぞうげい",
+ "category": "歌謡",
+ "kind": "kashu",
+ "description": null,
+ "editions": [
+  {
+   "pid": "1913603",
+   "title": "有朋堂文庫 第69（歌謡）",
+   "editor": "",
+   "series": "有朋堂文庫",
+   "publisher": "有朋堂書店",
+   "year": 1915,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/1913603"
+  }
+ ],
+ "status": "校正前（国立国会図書館の全文テキスト（OCR）を、見出しで切ったもの。異文の印は本文に残した。注は sachu に入れた）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zatsugei-000001",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "（見出し無し）",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "ふとぞ鬢多々良(五節間郢曲)のおちたるをいびんだたらを。あゆかせばこそ。あゆかせばこそ。愛敬づいたれ。ヤレコトウトウ。",
+   "yomi": "",
+   "sachu": "びんだたら-髮",
+   "jo": false,
+   "pages": [
+    97
+   ],
+   "no": 1,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000002",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "思之津(同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "おもひの津に。舟のよれかし。星のまぎれに。おして參らう。ヤレコトウトウ。物云舞(又は萬歲樂)同上)其、千世に萬代。かさなるは。鶴のむれゐる。龜岡。千歲爲春八千其二椿のかげは八千とせ。松花のいろは。十返り。歲爲秋」年に一度花さき其花の十回も咲く程の意、卽ち「千歲之松」と漢文にいへる意也其三見るにめでたき。花のいろ。千とせの松に。降る雪。",
+   "yomi": "",
+   "sachu": "八千とせ-莊子逍遙游篇「上古有大椿者以八十返り-松は百",
+   "jo": false,
+   "pages": [
+    97,
+    98
+   ],
+   "no": 2,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000003",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "其四",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "豐年のしるしは。天に滿ちて。降る雪。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    98
+   ],
+   "no": 3,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000004",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "其五",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "年のうちに。咲く梅。くれなゐにほひの。薄雪。其六に懸けたる白靑の絹糸の紐に日蔭蔓の代りに冠の笄の左右日蔭の糸に。むすほほれ。小忌の袖に。置く霜。",
+   "yomi": "",
+   "sachu": "日蔭の糸-神事",
+   "jo": false,
+   "pages": [
+    98
+   ],
+   "no": 4,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000005",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "其七",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "おまへの池の。鴨どり。上毛の霜の。しろさよ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    98
+   ],
+   "no": 5,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000006",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "其八",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "ついたて。見たれば。御階の月の。あかさよ。女",
+   "yomi": "",
+   "sachu": "衣被女-見物の",
+   "jo": false,
+   "pages": [
+    98
+   ],
+   "no": 6,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000007",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "其九",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "ついたて。見たれば。神のます内野の。森の影の。高さよ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    98
+   ],
+   "no": 7,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000008",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "其十",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "ついたて。見たれば。御隨身の。持ちたる。立松明の。しろさよ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    98
+   ],
+   "no": 8,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000009",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "其十一",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "ついたて。見たれば。衣被女の。おほさよ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    98
+   ],
+   "no": 9,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000010",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "其十二",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "ついたて。見たれば。舞姫の。おほさよ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    98
+   ],
+   "no": 10,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000011",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "其十三",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "すさまじく。いふなる。十二月の。月夜を。豐のあかりの。光は。めづらしくぞ。覺ゆる。水猿曲(又は水白拍子)(同上にあり、方二百里と稱す光武帝の時嚴子陵富春山に隱れて耕釣して終る水のすぐれて。おぼゆるは。西天竺の。白鷺池。じむしやう許由に。すみわたる。昆明池の。水の色。ゆくすゑ久しく。澄むとかや。賢人の釣を。垂れしは。嚴陵瀨の。河の水月影ながら。漏るなるは山田の筧の。水とかや。蘆の下葉を。とづるは。三島入江の氷水春立つ空の。若水は。汲むとも〓〓。盡きもせじ。つきもせじ。",
+   "yomi": "",
+   "sachu": "昆明池-昆明國嚴陵瀨-後漢の",
+   "jo": false,
+   "pages": [
+    98,
+    99
+   ],
+   "no": 11,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000012",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "伊佐立奈牟(同)上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "いざ立ちなん。鴛鴦の鴨鳥。水まさらば。とくぞまさらん。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    99
+   ],
+   "no": 12,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000013",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "白薄樣(同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "白うすやう。濃染紫の紙まきあけの筆。巴書いたる。筆の軸。ヤレコトウトウ。以下は特に民謠なり、併せてここに載す春の野(土佐日記所載舟歌)春の野にてぞ。音をば泣く。わがす〓きにて。手を切る切る。摘んだる菜を。親や貪食るらん。姑やくらふらん。カヘラヤ。よんべの。童女もがな。錢こはん。空言をして。おぎのりわざー品物と引替に金を拂はず懸にて買ふことおぎのりわざをして。錢ももてこず。おのれだにこず。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    99
+   ],
+   "no": 13,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000014",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "國のかた(同上",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "なほこそ。國のかたは。見やらるれ。わが父母。ありとしおもへば。カヘラヤ。川そひ柳(榮花物語所載)かやつー彼奴川そひ柳。風ふけば。動くと見れど。根はつよし。ほと〓ぎす(枕草子所載田植歌)ほと〓ぎす。おれよかやつよ。おれ鳴きてぞ。我は田に立つ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    99
+   ],
+   "no": 14,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000015",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "夜は誰と(同書所載)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "よるは。誰と寢ん。常陸の。介と寢ん。寢たる。肌もよし。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    99
+   ],
+   "no": 15,
+   "poems": []
+  },
+  {
+   "id": "zatsugei-000016",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "ま(同上た",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "男山の。峰のもみぢ葉。さぞ名が立つ。さぞ名が立つ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    99
+   ],
+   "no": 16,
+   "poems": []
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "zatsugei",
+  "work": "雑芸",
+  "yomi": "ぞうげい",
+  "category": "歌謡",
+  "order": 0,
+  "era": "平安時代",
+  "author": "",
+  "kind": "kashu",
+  "blocks": 16,
+  "chars": 1086,
+  "poems": 16,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-10-26",
+  "updated_at": "2026-10-26T16:46:20+09:00"
+ }
+}

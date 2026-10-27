@@ -5,7 +5,12 @@
  "yomi": "ぞうげい",
  "category": "歌謡",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "歌謡（雑芸）",
+  "era": "平安時代",
+  "author": "未詳",
+  "desc": "今様などに並んで、平安後期に歌われたさまざまな歌謡を集めたもの。"
+ },
  "editions": [
   {
    "pid": "1913603",

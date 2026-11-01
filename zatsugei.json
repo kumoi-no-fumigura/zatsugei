@@ -443,6 +443,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 16,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zatsugei",
   "work": "雑芸",
@@ -455,7 +459,7 @@
   "blocks": 16,
   "chars": 925,
   "poems": 16,
-  "yaku": 0,
+  "yaku": 16,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T08:33:29+09:00"

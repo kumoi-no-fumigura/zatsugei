@@ -2,7 +2,7 @@
 
 雲居の文庫（くもゐのふみぐら）の一作品です。著作権の保護期間が満了した刊本から起こした本文を、誰でも読み・使い・直せるように置いています。
 
-**サイトで読む：[雑芸（雲居の文庫（くもゐのふみぐら））](https://informanellica.com/kumoi-no-fumigura/read.html?work=zatsugei)**（原本の画像の表示、修正案の送信ができます）
+**サイトで読む：[雑芸（雲居の文庫（くもゐのふみぐら））](https://informanellica.com/kumoi-no-fumigura/read.html?work=zatsugei)**（訳との対訳、原本の画像の表示、修正案の送信ができます）
 
 | | |
 |---|---|
@@ -25,11 +25,14 @@
 | パス | 中身 |
 |---|---|
 | `honbun/` | 本文。1 行が 1 首で、`段落ID<TAB>番号<TAB>詞書<TAB>作者<TAB>歌<TAB>左注` の形です。番号は、この作品の中での歌の通し番号（1 から。序などの歌でない段落は空）です。50段落ごとにファイルを分けています（1ファイル）。 |
+| `yaku/` | 現代語訳。1 行が 1 段落（歌集は 1 首）で、`段落ID<TAB>訳<TAB>出典` の形です。出典の欄が空の訳は、このプロジェクトで作ったものです（AI を使っています）。本文と同じファイル分けです。 |
 | `zatsugei.json` | 本文・底本・作品の説明・作中歌のデータをまとめた JSON（訳は入れず、`yaku/` だけに置いています）。段落ごとに原本のコマ番号があります。 |
 
 段落ID（例: `zatsugei-000001`）は、本文を直しても変わりません。原本の画像は、底本のリンクからコマ番号で見られます。
 
 ## 誤りを見つけたら
+
+訳の誤りや、もっとよい訳は、[「訳の誤り」の Issue](https://github.com/kumoi-no-fumigura/zatsugei/issues/new?template=yaku.yml) か、`yaku/` の該当行を直した Pull Request で知らせてください。
 
 
 - **Issue で知らせる**：[「本文の誤り」の Issue を作る](https://github.com/kumoi-no-fumigura/zatsugei/issues/new?template=teisei.yml)。段落ID・いまの本文・直した本文・根拠を書いてください。
